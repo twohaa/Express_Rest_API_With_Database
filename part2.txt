@@ -1,0 +1,10 @@
+Craete a rest api with database
+
+.We will follow the MVC architecture
+.Routes demo
+
+// api/users : GET
+// api/users/:id :GET
+// api/users/ : POST
+// api/users/:id :PATCH
+// api/users/:id :DELETE
